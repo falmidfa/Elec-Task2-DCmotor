@@ -1,4 +1,15 @@
 # Elec-Task2-DCmotor
+This Arduino project controls two DC motors using  L293D motor driver to perform a series of programmed movements:
+
+- Move forward for 30 seconds
+
+- Move backward for 60 seconds
+
+- Alternate turning right and left for 60 seconds
+
+The project also includes an LCD display (connected via I2C protocol) that shows the current motor movement in real time (e.g., “Moving Forward”, “Turning Left”, etc.) 
+
+---
 ## Task1-Code
 
 #include <Wire.h>
