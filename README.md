@@ -10,6 +10,10 @@ This Arduino project controls two DC motors using  L293D motor driver to perform
 The project also includes an LCD display (connected via I2C protocol) that shows the current motor movement in real time (e.g., “Moving Forward”, “Turning Left”, etc.) 
 
 ---
+## Tinkercad Link
+https://www.tinkercad.com/things/eQ0xNKjUMhp-dc-motor?sharecode=jKokIvMBkkl1XleGDPi0Hqx3NKKgITfbdyNu75tseEE
+
+---
 ## Task1-Code
 
 #include <Wire.h>
